@@ -2,6 +2,7 @@
 <h3 align="center">An Aerospace Engineer turned into Data Analyst</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
+- Portfolio: [https://codebasics.io/portfolio/Saurav-Kumar](https://codebasics.io/portfolio/Saurav-Kumar)
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/srv-sngh](https://www.novypro.com/profile_projects/srv-sngh)
 
