@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav</h1>
-<h3 align="center">An Aerospace Engineer turned into Data Analyst</h3>
+<h3 align="center">An Aerospace Engineer turned into Busines Analyst</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning**
 - Portfolio: [https://codebasics.io/portfolio/Saurav-Kumar](https://codebasics.io/portfolio/Saurav-Kumar)
